@@ -13,7 +13,11 @@ My Telegram channel: [@petro_onishchuk_dev](https://t.me/petro_onishchuk_dev)
 
 My 👋Clubhouse account: [@petro_onishchuk](https://www.joinclubhouse.com/@petro_onishchuk)
  
-## Projects: 1, 2, 3 placed in [The SwiftUI Tutorials](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials) repository. 
+## Projects: 1, 2, 3 placed in [The SwiftUI Tutorials](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials) repository.
+### Project #1 in #17 in [The SwiftUI Tutorials](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials) repository.
+### Project #2 in #18 in [The SwiftUI Tutorials](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials) repository.
+### Project #3 in #19 in [The SwiftUI Tutorials](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials) repository.
+
 ## 3. [SwiftUI & UIKit & Go (Golang) & WebSocket Client/Server](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials/tree/master/WebSocketsSwiftUIGolangWeb)
 
 [GitHub](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials/tree/master/WebSocketsSwiftUIGolangWeb)<br />
