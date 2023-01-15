@@ -13,12 +13,7 @@ My Twitter account: [@petro_onishchuk](https://mobile.twitter.com/petro_onishchu
 
 My Telegram channel: [@petro_onishchuk_dev](https://t.me/petro_onishchuk_dev)
 
-My 👋Clubhouse account: [@petro_onishchuk](https://www.joinclubhouse.com/@petro_onishchuk)
- 
-## Projects: 1, 2, 3 placed in [The SwiftUI Tutorials](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials) repository.
-### Project #1 is #17 in [The SwiftUI Tutorials](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials) repository.
-### Project #2 is #18 in [The SwiftUI Tutorials](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials) repository.
-### Project #3 is #19 in [The SwiftUI Tutorials](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials) repository.
+My 👋Clubhouse account: [@petro_onishchuk](https://www.joinclubhouse.com/@petro_onishchuk) 
 
 ## 3. [SwiftUI & UIKit & Go (Golang) & WebSocket Client/Server](https://github.com/PetroOnishchuk/The-Golang-Tutorials/tree/master/WebSocketsSwiftUIGolangWeb)
 
@@ -110,6 +105,12 @@ My 👋Clubhouse account: [@petro_onishchuk](https://www.joinclubhouse.com/@petr
 [GitHub](https://github.com/PetroOnishchuk/The-Golang-Tutorials/tree/master/URLSessionAndSwiftUIasync:await/HTTPServerAndGo01)<br />
 
 [YouTube](https://youtu.be/varAF3c1BOI)<br />
+
+
+## Projects: 1, 2, and 3 are also placed in [The SwiftUI Tutorials](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials) repository.
+### Project #1 is #17 in [The SwiftUI Tutorials](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials) repository.
+### Project #2 is #18 in [The SwiftUI Tutorials](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials) repository.
+### Project #3 is #19 in [The SwiftUI Tutorials](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials) repository.
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=petroonishchuk.petroonishchuk)
