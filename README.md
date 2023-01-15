@@ -82,32 +82,32 @@ My 👋Clubhouse account: [@petro_onishchuk](https://www.joinclubhouse.com/@petr
 
 ## 1. [GET & POST Request & SwiftUI & Go (Golang) Local Server](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials/tree/master/URLSessionAndSwiftUIasync:await)
 
-[GitHub](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials/tree/master/URLSessionAndSwiftUIasync:await)<br />
+[GitHub](https://github.com/PetroOnishchuk/The-Golang-Tutorials/tree/master/URLSessionAndSwiftUIasync:await)<br />
 
 [YouTube](https://www.youtube.com/playlist?list=PL3pUvT0fmHNjtUGNjN8tBucDekgKLFATM)<br />
 
-### 1.1 [POST Request & SwiftUI & Go(Golang) Server](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials/tree/master/URLSessionAndSwiftUIasync:await/URLSessionAndPOSTRequestAsync:await01)
+### 1.1 [POST Request & SwiftUI & Go(Golang) Server](https://github.com/PetroOnishchuk//The-Golang-Tutorials/tree/master/URLSessionAndSwiftUIasync:await/URLSessionAndPOSTRequestAsync:await01)
 (Using: URLSession, @escaping, async/await, REST API, GO (Golang) Local Server.)
         
 
-[GitHub](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials/tree/master/URLSessionAndSwiftUIasync:await/URLSessionAndPOSTRequestAsync:await01)<br />
+[GitHub](https://github.com/PetroOnishchuk//The-Golang-Tutorials/tree/master/URLSessionAndSwiftUIasync:await/URLSessionAndPOSTRequestAsync:await01)<br />
 
 [YouTube](https://youtu.be/_SVDOF9BP50)<br />
 
 
-### 1.2 [GET Request & SwiftUI & Go(Golang) Server](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials/tree/master/URLSessionAndSwiftUIasync:await/URLSessionAndGETRequestAsync:await01)
+### 1.2 [GET Request & SwiftUI & Go(Golang) Server](https://github.com/PetroOnishchuk//The-Golang-Tutorials/tree/master/URLSessionAndSwiftUIasync:await/URLSessionAndGETRequestAsync:await01)
 (Using: URLSession, @escaping, async/await, REST API, GO (Golang) Local Server.)
         
 
-[GitHub](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials/tree/master/URLSessionAndSwiftUIasync:await/URLSessionAndGETRequestAsync:await01)<br />
+[GitHub](https://github.com/PetroOnishchuk//The-Golang-Tutorials/tree/master/URLSessionAndSwiftUIasync:await/URLSessionAndGETRequestAsync:await01)<br />
 
 [YouTube](https://youtu.be/O-vTt3tP8aI)<br />
 
-### 1.3 [Go(Golang) Local Server & iOS Project. Receive: GET & POST Request](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials/tree/master/URLSessionAndSwiftUIasync:await/URLSessionAndGETRequestAsync:await01)
+### 1.3 [Go(Golang) Local Server & iOS Project. Receive: GET & POST Request](https://github.com/PetroOnishchuk//The-Golang-Tutorials/tree/master/URLSessionAndSwiftUIasync:await/URLSessionAndGETRequestAsync:await01)
 (Using: encoding/json, net/http.)
         
 
-[GitHub](https://github.com/PetroOnishchuk/The-SwiftUI-Tutorials/tree/master/URLSessionAndSwiftUIasync:await/HTTPServerAndGo01)<br />
+[GitHub](https://github.com/PetroOnishchuk//The-Golang-Tutorials/tree/master/URLSessionAndSwiftUIasync:await/HTTPServerAndGo01)<br />
 
 [YouTube](https://youtu.be/varAF3c1BOI)<br />
 
